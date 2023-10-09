@@ -37,3 +37,7 @@ Definitions
 <h4>
 References
 </h4>
+Git scm download site | <a href="https://git-scm.com/downloads">here</a> <br>
+GitHub webpage | <a href="https://github.com/join">here</a> <br>
+Jetbrains educational license | <a href="https://www.jetbrains.com/community/education/#classrooms">here</a> <br>
+Intro to GitHub Powerpoint | <a href ="https://njit.instructure.com/courses/30780/files/5214587?module_item_id=1138121">here</a> <br>
